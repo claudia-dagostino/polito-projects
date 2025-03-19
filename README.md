@@ -1,7 +1,7 @@
 Repository contents and relative languages:  
 
-- **<a href="./Bachelor's degree">Bachelor's degree</a>**: final stage report and thesis in the form of a literature review
-  - "Experimental Testing and Magnetic Resonance Imaging to Determine Mechanical Parameters of the Intervertebral Disc: Testing Techniques and Results" - English
+- **Bachelor's degree**: final stage report and thesis in the form of a literature review
+  - <a href="./Bachelor's degree/Experimental%20Testing%20and%20Magnetic%20Resonance%20Imaging%20to%20Determine__Mechanical%20Parameters%20of%20the%20Intervertebral%20Disc_%20Testing%20Techniques__and%20Results.pdf">Experimental Testing and Magnetic Resonance Imaging to Determine Mechanical Parameters of the Intervertebral Disc: Testing Techniques and Results</a> - English
 
 **<a href="./Master's degree">Master's degree</a>**
 
