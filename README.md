@@ -15,7 +15,7 @@ Repository contents and relative languages:
 - Master's degree *Biomimetic systems* course: peer education presentation on recent literature and its relevance for the course topic
   -  "Perforation-type anchors inspired by skin ligament for robotic face covered with living skin" - English
 - Master's degree *Frontiers in bioengineering enabling nanotechnologies* course: research proposal for the development of a thermosensitive injectable hydrogel loaded with growth factors encapsulated in mesoporous glass NPs and with adhesive and lubricant properties for the regeneration of large cartilage defects
-  - "
-  - "
-- Master's degree *Practical nanotechnologies formation* course: lab report of the project consisting in the synthesis and characterisation of therapeutic nanoparticles for the treatment of glioblastoma and in the evaluation of their interaction with microglia cells and a tumor model in vitro
-  - "  
+  - "PATCH research proposal" - English
+  - "PATCH research proposal presentation" - English
+- Master's degree *Practical training in medical nanotechnologies and advanced treatments* course: lab report of the project consisting in the synthesis and characterisation of therapeutic nanoparticles for the treatment of glioblastoma and in the evaluation of their interaction with microglia cells and a tumor model in vitro
+  - "Lab report: formazione pratica in nanotecnologie" - Italian
