@@ -1,9 +1,9 @@
 Repository contents and relative languages:  
 
-- **Bachelor's degree**: final stage report and thesis in the form of a literature review
+- **<a href="./Bachelor's degree/">Bachelor's degree</a>**: final stage report and thesis in the form of a literature review
   - "Experimental Testing and Magnetic Resonance Imaging to Determine Mechanical Parameters of the Intervertebral Disc: Testing Techniques and Results" - English
 
-**Master's degree**
+**<a href="./Master's degree/">Master's degree</a>**
 
 - Master's degree *Biomaterials* course: project consisting in the creation and presentation of a cutting-edge engineered medical device prototype
   - "Stent metallici bioriassorbibili e bioattivi" - Italian
