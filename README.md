@@ -3,21 +3,21 @@ Repository contents and relative languages:
 - **Bachelor's degree**: final stage report and thesis in the form of a literature review
   - <a href="./Bachelor's degree/Experimental%20Testing%20and%20Magnetic%20Resonance%20Imaging%20to%20Determine__Mechanical%20Parameters%20of%20the%20Intervertebral%20Disc_%20Testing%20Techniques__and%20Results.pdf">Experimental Testing and Magnetic Resonance Imaging to Determine Mechanical Parameters of the Intervertebral Disc: Testing Techniques and Results</a> - English
 
-**<a href="./Master's degree">Master's degree</a>**
+**Master's degree**
 
 - Master's degree *Biomaterials* course: project consisting in the creation and presentation of a cutting-edge engineered medical device prototype
-  - "Stent metallici bioriassorbibili e bioattivi" - Italian
-  - "Stent metallici bioriassorbibili e bioattivi brochure" - Italian
+  - [Bioresorbable bioactive metal stents](https://claudiaaddagostino.wixsite.com/stent-metallici-bior)  - Italian
+  - <a href="./Master's degree/Stent%20metallici%20bioriassorbibili%20e%20bioattivi_brochure.pdf>Bioresorbable bioactive metal stents brochure</a> - Italian
 - Master's degree *Engineered materials and surfaces* course: slides from the peer education lesson we produced to expand on the course topics by highlighting recent literature
-  - "3D printing for bone implants presentation" - Italian
+  - <a href="./Master's degree/3D%20printing%20for%20bone%20implants%20presentation.pdf>3D printing for bone implants presentation</a> - Italian
 -  Master's degree *Artificial Intelligence in medicine* course: video report of the programming project aimed at comparing the performance of different classifiers in predicting outcome treatment from the same database
-    - "IAM final report" - Italian  
+    - <a href="./Master's degree/IAM_final%20report.mp4>IAM final report</a> - Italian  
 -  Master's degree *Bioreactors* course: presentation of the proposed design of a bioreactor for the culture and mechanical stimulation and testing of skeletal muscle constructs to evaluate different treatment protocols for Duchenne distrophy
-    - "Muscle bioreactor presentation" - Italian
+    - <a href="./Master's degree/Muscle%20bioreactor%20presentation.pptx>Muscle bioreactor presentation</a> - Italian
 - Master's degree *Biomimetic systems* course: peer education presentation on recent literature and its relevance for the course topic
-  -  "Perforation-type anchors inspired by skin ligament for robotic face covered with living skin" - English
+  -  <a href="./Master's degree/Perforation-type%20anchors%20inspired%20by%20skin%20ligament%20for%20robotic%20face%20covered%20with%20living%20skin.pdf>Perforation-type anchors inspired by skin ligament for robotic face covered with living skin</a> - English
 - Master's degree *Frontiers in bioengineering enabling nanotechnologies* course: research proposal for the development of a thermosensitive injectable hydrogel loaded with growth factors encapsulated in mesoporous glass NPs and with adhesive and lubricant properties for the regeneration of large cartilage defects
   - "PATCH research proposal" - English
-  - "PATCH research proposal presentation" - English
+  - <a href="./Master's degree/PATCH%20research%20proposal%20presentation.pdf>PATCH research proposal presentation</a> - English
 - Master's degree *Practical training in medical nanotechnologies and advanced treatments* course: lab report of the project consisting in the synthesis and characterisation of therapeutic nanoparticles for the treatment of glioblastoma and in the evaluation of their interaction with microglia cells and a tumor model in vitro
-  - "Lab report: formazione pratica in nanotecnologie" - Italian
+  - <a href="./Master's degree/Lab%20report_formazione%20pratica%20in%20nanotecnologie.pdf>Lab report: formazione pratica in nanotecnologie</a> - Italian
