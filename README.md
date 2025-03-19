@@ -9,7 +9,7 @@ Repository contents and relative languages:
 - Master's degree *Engineered materials and surfaces* course: slides from the peer education lesson we produced to expand on the course topics by highlighting recent literature
   - "3D printing for bone implants presentation" - Italian
 -  Master's degree *Artificial Intelligence in medicine* course: video report of the programming project aimed at comparing the performance of different classifiers in predicting outcome treatment from the same database
-  - "IAM final report" - Italian
+  - "IAM final report" - Italian  
 -  Master's degree *Bioreactors* course: presentation of the proposed design of a bioreactor for the culture and mechanical stimulation and testing of skeletal muscle constructs to evaluate different treatment protocols for Duchenne distrophy
   - "Muscle bioreactor presentation" - Italian
 - Master's degree *Biomimetic systems* course: peer education presentation on recent literature and its relevance for the course topic
