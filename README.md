@@ -1,9 +1,9 @@
 Repository contents and relative languages:  
 
-- **(<a href="./Bachelor's degree/aFile">Bachelor's degree</a>)**: final stage report and thesis in the form of a literature review
+- **<a href="https://claudia-dagostino.github.io/polito-projects/Bachelor's degree/aFile">Bachelor's degree</a>**: final stage report and thesis in the form of a literature review
   - "Experimental Testing and Magnetic Resonance Imaging to Determine Mechanical Parameters of the Intervertebral Disc: Testing Techniques and Results" - English
 
-**(<a href="./Master's degree/aFile">Master's degree</a>)**
+**<a href="https://claudia-dagostino.github.io/polito-projects/Master's degree/aFile">Master's degree</a>**
 
 - Master's degree *Biomaterials* course: project consisting in the creation and presentation of a cutting-edge engineered medical device prototype
   - "Stent metallici bioriassorbibili e bioattivi" - Italian
