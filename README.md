@@ -21,3 +21,8 @@ Repository contents and relative languages:
   - <a href="./Master's degree/PATCH%20research%20proposal%20presentation.pdf">PATCH research proposal presentation</a> - English
 - Master's *Practical training in medical nanotechnologies and advanced treatments* course: lab report of the project consisting in the synthesis and characterisation of therapeutic nanoparticles for the treatment of glioblastoma and in the evaluation of their interaction with microglia cells and a tumor model in vitro
   - <a href="./Master's degree/Lab%20report_formazione%20pratica%20in%20nanotecnologie.pdf">Lab report: formazione pratica in nanotecnologie</a> - Italian
+- Master's *Thermal therapies* course: literature review and report on the use of whole body hyperthermia methods in the treatment of rheumatic diseases, with a focus on the promises of the use of wIRA protocols
+  - <a href="./Master's degree/Presentazione.pptx">Thermal therapies for the treatment of rheumatic conditions: perspectives on the use of mild whole body hyperthermia with wIRA</a> - Italian
+- Master's *Laboratory of tissues and pathological processes' models* course: research proposal for the development of a pathological, Multiple-Sclerosis affected microfluidic BBB model to use as a screening platform and to study the development of the disease
+  - <a href="./Master's degree/Project_15.pdf">MIMIC-BBB research proposal</a> - English
+  - <a href="./Master's degree/MIMIC-BBB_group15.pptx">MIMIC-BBB research proposal presentation</a> - English
