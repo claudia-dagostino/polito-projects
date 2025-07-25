@@ -25,4 +25,4 @@ Repository contents and relative languages:
   - <a href="./Master's degree/Presentazione.pptx">Thermal therapies for the treatment of rheumatic conditions: perspectives on the use of mild whole body hyperthermia with wIRA</a> - Italian
 - Master's *Laboratory of tissues and pathological processes' models* course: research proposal for the development of a pathological, Multiple-Sclerosis affected microfluidic BBB model to use as a screening platform and to study the development of the disease
   - <a href="./Master's degree/Project_15.pdf">MIMIC-BBB research proposal</a> - English
-  - <a href="./Master's degree/MIMIC-BBB_group15.pptx">MIMIC-BBB research proposal presentation</a> - English
+  - <a href="./Master's degree/MIMIC-BBB_group%2015.pptx">MIMIC-BBB research proposal presentation</a> - English
